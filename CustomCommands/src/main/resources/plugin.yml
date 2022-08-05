@@ -1,0 +1,11 @@
+name: CustomCommands
+version: '${project.version}'
+main: me.afagaming.customcommands.CustomCommands
+api-version: 1.17
+prefix: [ AFA Custom Commands ]
+authors: [ AfaGaming ]
+description: practice for making custom commands
+commands:
+  clear:
+    description: Clears your inventory
+    usage: /<command>
